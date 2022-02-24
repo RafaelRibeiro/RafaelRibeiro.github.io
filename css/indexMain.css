@@ -1,0 +1,52 @@
+#BG
+{
+    background-color: #E8DAB2;
+    text-align: center;
+    box-sizing: border-box;
+    z-index: -1;
+    
+    
+}
+
+#ImgSalsichinha
+{
+    align-items: right;
+}
+
+main
+{
+    font-size: 26px;
+
+    
+}
+
+#Conteudo
+{
+    font-size:24px;
+    text-align: left;
+    box-sizing: border-box;
+    width:800px;
+    padding-left: 24px;
+    padding-top: 34px;
+    padding-bottom: 10px;
+    padding-right: 24px;
+    margin:auto;
+    background-color: white;
+    box-shadow: #090909;
+}
+
+#imgHotDog
+{
+    width: calc(100% - 15px);
+
+}
+
+footer
+{
+    height:50px;
+    background-color: #090909;
+    padding: 16px;
+    color:white; 
+    text-align: right;
+    font-size: 32px;
+}
